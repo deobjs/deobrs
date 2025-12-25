@@ -1,0 +1,9 @@
+[package]
+name = "deob"
+version = "0.0.0"
+edition = "2024"
+description = "JavaScript code deobfuscator"
+license = "MIT"
+repository = "https://github.com/deobjs/deobrs"
+
+[dependencies]
